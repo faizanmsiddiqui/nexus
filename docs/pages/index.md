@@ -9,11 +9,11 @@ layout: default
 <div align=center>
 
 <p>
-  🌍 <strong><a href="https://imfsiddiqui.github.io/{{ site.repository_name }}">Web Page</a></strong>
+  🌍 <strong><a href="https://faizanmsiddiqui.github.io/{{ site.repository_name }}">Web Page</a></strong>
   |
-  💻 <strong><a href="https://github.com/imfsiddiqui/{{ site.repository_name }}">Source Code</a></strong>
+  💻 <strong><a href="https://github.com/faizanmsiddiqui/{{ site.repository_name }}">Source Code</a></strong>
   |
-  🚀 <strong><a href="https://github.com/imfsiddiqui/{{ site.repository_name }}/releases">Releases</a></strong>
+  🚀 <strong><a href="https://github.com/faizanmsiddiqui/{{ site.repository_name }}/releases">Releases</a></strong>
 </p>
 
 </div>
@@ -207,8 +207,8 @@ cross-browser compatibility, and accessibility.
 To use this template for your own project:
 
 - **Clone or Download**:
-  [Clone the repository](https://github.com/imfsiddiqui/nexus) or
-  [download the ZIP](https://github.com/imfsiddiqui/nexus/archive/refs/heads/main.zip).
+  [Clone the repository](https://github.com/faizanmsiddiqui/nexus) or
+  [download the ZIP](https://github.com/faizanmsiddiqui/nexus/archive/refs/heads/main.zip).
 - **Open the Project**: Open the project folder in your preferred code editor.
 - **Customize Content**:
   - Edit `src/index.html` to update the title, description, logo, and social
@@ -218,7 +218,6 @@ To use this template for your own project:
     `DEFAULT_DAYS_FROM_NOW` in `src/assets/js/countdown.js`.
 - **Preview Locally**: Go to the `src/` directory from your terminal and run a
   local server to preview the page. You can use tools like:
-
   - **Node.js**:
 
     ```console
@@ -240,24 +239,24 @@ To use this template for your own project:
 
 ## 📄 Important Documents
 
-- [Changelog](https://github.com/imfsiddiqui/nexus/blob/main/docs/CHANGELOG.md):
+- [Changelog](https://github.com/faizanmsiddiqui/nexus/blob/main/docs/CHANGELOG.md):
   Changelog of all notable changes.
-- [Code of Conduct](https://github.com/imfsiddiqui/nexus/blob/main/docs/CODE-OF-CONDUCT.md):
+- [Code of Conduct](https://github.com/faizanmsiddiqui/nexus/blob/main/docs/CODE-OF-CONDUCT.md):
   Code of Conduct for contributors.
-- [Commit Message Instructions](https://github.com/imfsiddiqui/nexus/blob/main/.github/copilot/commit-message-instructions.md):
+- [Commit Message Instructions](https://github.com/faizanmsiddiqui/nexus/blob/main/.github/copilot/commit-message-instructions.md):
   Commit message guidelines for contributors and Copilot.
-- [Contribution Guidelines](https://github.com/imfsiddiqui/nexus/blob/main/docs/CONTRIBUTING.md):
+- [Contribution Guidelines](https://github.com/faizanmsiddiqui/nexus/blob/main/docs/CONTRIBUTING.md):
   How to contribute to this project.
-- [License](https://github.com/imfsiddiqui/nexus/blob/main/LICENSE.md): License
-  text.
-- [Pull Request Description Instructions](https://github.com/imfsiddiqui/nexus/blob/main/.github/copilot/pull-request-description-instructions.md):
+- [License](https://github.com/faizanmsiddiqui/nexus/blob/main/LICENSE.md):
+  License text.
+- [Pull Request Description Instructions](https://github.com/faizanmsiddiqui/nexus/blob/main/.github/copilot/pull-request-description-instructions.md):
   Pull request guidelines for contributors and Copilot.
-- [Roadmap](https://github.com/imfsiddiqui/nexus/blob/main/docs/ROADMAP.md):
+- [Roadmap](https://github.com/faizanmsiddiqui/nexus/blob/main/docs/ROADMAP.md):
   High-level strategic plan, long-term goals, milestones, and overall project
   vision.
-- [Security Policy](https://github.com/imfsiddiqui/nexus/blob/main/docs/SECURITY.md):
+- [Security Policy](https://github.com/faizanmsiddiqui/nexus/blob/main/docs/SECURITY.md):
   Security policy and reporting instructions.
-- [Todo](https://github.com/imfsiddiqui/nexus/blob/main/docs/TODO.md):
+- [Todo](https://github.com/faizanmsiddiqui/nexus/blob/main/docs/TODO.md):
   Day-to-day task tracking and immediate execution.
 
 <p align="right"><a href="#top">☝️</a></p>
@@ -265,7 +264,7 @@ To use this template for your own project:
 ## 📜 License
 
 This project is licensed under the
-[MIT License](https://github.com/imfsiddiqui/nexus/blob/main/LICENSE.md),
+[MIT License](https://github.com/faizanmsiddiqui/nexus/blob/main/LICENSE.md),
 allowing anyone to use, modify, and distribute it freely for personal or
 commercial purposes.
 
