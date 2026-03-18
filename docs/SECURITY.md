@@ -35,7 +35,7 @@ If you discover a security vulnerability, please follow these steps:
 
 1. **Do not open public issues or pull requests for security vulnerabilities.**
 2. **Report privately** by emailing the maintainer at:
-   [imfsiddiqui@yahoo.com](mailto:imfsiddiqui@yahoo.com).
+   [faizanmsiddiqui@yahoo.com](mailto:faizanmsiddiqui@yahoo.com).
 3. Include as much detail as possible:
    - Description of the vulnerability
    - Steps to reproduce (if applicable)
