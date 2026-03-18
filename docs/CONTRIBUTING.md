@@ -32,14 +32,14 @@ welcoming and inclusive.
 
 ### 🐛 Reporting Bugs
 
-- Search [issues](https://github.com/imfsiddiqui/nexus/issues) to check if the
-  bug is already reported.
+- Search [issues](https://github.com/faizanmsiddiqui/nexus/issues) to check if
+  the bug is already reported.
 - Open a new issue with a clear title and detailed description.
 - Include steps to reproduce, expected behavior, and screenshots if possible.
 
 ### ✨ Suggesting Features
 
-- Search [issues](https://github.com/imfsiddiqui/nexus/issues) for similar
+- Search [issues](https://github.com/faizanmsiddiqui/nexus/issues) for similar
   feature requests.
 - Open a new issue describing your idea, its use case, and possible
   alternatives.
@@ -85,6 +85,6 @@ welcoming and inclusive.
 ## 📜 License
 
 By contributing, you agree that your contributions will be licensed under the
-[MIT License](https://github.com/imfsiddiqui/nexus/blob/main/LICENSE.md).
+[MIT License](https://github.com/faizanmsiddiqui/nexus/blob/main/LICENSE.md).
 
 <p align="right"><a href="#top">☝️</a></p>
